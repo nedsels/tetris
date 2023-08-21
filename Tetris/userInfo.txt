@@ -1,0 +1,12 @@
+USER0
+_____
+SCORE0
+0
+USER1
+_____
+SCORE1
+0
+USER2
+_____
+SCORE2
+0
