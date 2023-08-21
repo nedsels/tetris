@@ -37,3 +37,7 @@ You earn points when you press down and complete rows. The more rows you complet
 - Press <kbd>Space</kbd> to pause the game
 - Press <kbd>Backspace</kbd> to end the game and return to the menu
 - When "GAME OVER" shows, press any key to restart the game
+
+## Credit
+1. [This tutorial](https://youtu.be/wVYKG_ch4yM) was followed, excluding the sounds. However, the menus, pause feature, highscore and users, scoring system, level and speed system, and ghost blocks were made by me.
+2. This uses the [Raylib library](https://www.raylib.com/).
