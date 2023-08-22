@@ -41,3 +41,7 @@ You earn points when you press down and complete rows. The more rows you complet
 ## Credit
 1. [This tutorial](https://youtu.be/wVYKG_ch4yM) was followed, excluding the sounds. However, the menus, pause feature, highscore and users, scoring system, level and speed system, and ghost blocks were made by me.
 2. This uses the [Raylib library](https://www.raylib.com/).
+
+## To do
+1. Add include guards to <kbd>.h</kbd> files.
+2. Create horizontal and vertical text centering functions in <kbd>main.cpp</kbd> to avoid manual centering for each piece of text.
